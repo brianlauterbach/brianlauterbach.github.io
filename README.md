@@ -265,9 +265,28 @@
                 <span class="tag">Personal Reflections</span>
             </div>
         </article>
+<h2 itemprop="headline">Pain Management and Good Doctors Vs. Shitty Ones</h2>
+<div class="meta">
+    <span>📅 <time datetime="2024-12-07" itemprop="datePublished">December 7, 2024</time></span>
+    <span>👤 <span itemprop="author">BrainiacTheManiac</span></span>
+    <span>⏱️ 4 min read</span>
+</div>
+<p itemprop="description">
+    How many of us that suffer from pain have been to multiple doctors just to be treated like we are drug addicts looking for a double dose of dilaudid? More than likely that is not the case, I seriously doubt that more than 5 percent of the population chose to wait in a room with 230 other sick people just to obtain a 15 pill script for some mediocre pain medication, when if you really have pain and do the homework, you will find a compassionate doctor that will listen to you, but remember he or she may have hundreds of patients and does not have the time to listen to you whine about a very common ailment that is often cured with over the cournter medication. Lets face it, many addicts really brought this problem upon themselves, but refuse to accept the blame for such. </p>
+<p>
+    In upcoming blog entries I will use scientific evidence to help demonstrate how this is not merely a one sided argument
+</p>
+        
     </main>
-    
-    <footer>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>The Lostwriter</h1>
+            <p class="tagline">A journey through writing and life</p>
+        </div>
+        </article>
+        <footer>
         <div class="container">
             <p>&copy; 2024 The Lostwriter by BrainiacTheManiac. All rights reserved.</p>
             <p style="margin-top: 0.5rem; font-size: 0.9rem;">Exploring the intersection of mind, medicine, and music</p>
